@@ -1,0 +1,8 @@
+com/naina/wainaina/BuildConfig.java
+ com.naina.wainaina.BuildConfig
+com/naina/wainaina/Conversion.java
+ com.naina.wainaina.Conversion
+ com.naina.wainaina.Conversion$1
+com/naina/wainaina/MainActivity.java
+ com.naina.wainaina.MainActivity
+ com.naina.wainaina.MainActivity$1
